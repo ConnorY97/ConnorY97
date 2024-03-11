@@ -2,7 +2,7 @@
 
 I am a Support Engineer currently working at [FMOD](https://github.com/fmod). 
 
-This is my personal repsitroy for projects and some self development. 
+This is my personal repository for projects and some self development. 
 
 Feel free to have a look at any of my repos! 
 
