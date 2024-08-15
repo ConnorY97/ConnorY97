@@ -1,6 +1,6 @@
 ### Welcome to my GitHub
 
-I am a Support Engineer currently working at [FMOD](https://github.com/fmod). 
+I am a Junior Programmer currently working at [FMOD](https://github.com/fmod). 
 
 This is my personal repository for projects and some self development. 
 
