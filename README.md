@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Welcome to my Github</h1>
-        
+
 I am a Junior Programmer working at FMOD by Firelight Technologies. I am interested in game development and dev ops. <br>
-    
+
 [![FMOD](https://img.shields.io/badge/FMOD-grey?)](https://fmod.com)
 [![GitHub followers](https://img.shields.io/github/followers/ConnorY97?style=social)](https://github.com/ConnorY97)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-young-03629a1b5/)
