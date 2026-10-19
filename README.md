@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Welcome to my Github</h1>
 
-I am a Support Engineer working at FMOD by Firelight Technologies. I am interested in game development and dev ops. <br>
+I am QA Mananger at FMOD by Firelight Technologies – part of Bose Audio Technology. I am interested in game development and dev ops. <br>
 
 [![FMOD](https://img.shields.io/badge/FMOD-grey?)](https://fmod.com)
 [![GitHub followers](https://img.shields.io/github/followers/ConnorY97?style=social)](https://github.com/ConnorY97)
